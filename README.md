@@ -1,6 +1,6 @@
 ## Disabling Personal Teams in Laravel 8 and Jetstream
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling.
 
 - [The blog](https://npratley.net/disabling-personal-teams-in-laravel-8-and-jetstream-1fd083593e08/).
 - GitHub repository [DevLAN-io](https://github.com/DevLAN-io/laravel-boilerplate).
